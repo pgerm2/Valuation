@@ -112,6 +112,8 @@ def valuation():
     
 valuation()
 
+print('Thanks for using this program')
+
 
 
 
