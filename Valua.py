@@ -1,6 +1,7 @@
 
 print ('Welcome!')
 print('Please Follow the Instructions')
+print('Thank you')
 print('---------------------------')
 
 def valuation():
