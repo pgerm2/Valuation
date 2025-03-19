@@ -112,7 +112,7 @@ def valuation():
     
 valuation()
 
-
+ticker= str(input("Please input company or ticker: "))
 
 
 
